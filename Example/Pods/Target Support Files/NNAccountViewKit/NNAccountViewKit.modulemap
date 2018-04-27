@@ -1,0 +1,6 @@
+framework module NNAccountViewKit {
+  umbrella header "NNAccountViewKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

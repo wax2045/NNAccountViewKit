@@ -38,7 +38,7 @@
 
 /* Begin PBXFileReference section */
 		183533272B412770F5D90950 /* Pods-NNAccountViewKit_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NNAccountViewKit_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-NNAccountViewKit_Example/Pods-NNAccountViewKit_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		5F3E3AF528B09835CBE734CD /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		5F3E3AF528B09835CBE734CD /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* NNAccountViewKit_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NNAccountViewKit_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		6003F58F195388D20070C39A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -62,11 +62,11 @@
 		6B5C0D59EC13FB90B5227880 /* Pods_NNAccountViewKit_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_NNAccountViewKit_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		71719F9E1E33DC2100824A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		73E63B34672CE8B88C1429C5 /* Pods_NNAccountViewKit_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_NNAccountViewKit_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		80351257CFEC6D2A62DDA9FE /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		80351257CFEC6D2A62DDA9FE /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		91A45B25C13E8BFAAE179DA3 /* Pods-NNAccountViewKit_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NNAccountViewKit_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-NNAccountViewKit_Tests/Pods-NNAccountViewKit_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		95546C699F973D78227F5759 /* Pods-NNAccountViewKit_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NNAccountViewKit_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-NNAccountViewKit_Tests/Pods-NNAccountViewKit_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		C329B54944DB19BD73608CB4 /* NNAccountViewKit.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = NNAccountViewKit.podspec; path = ../NNAccountViewKit.podspec; sourceTree = "<group>"; };
+		C329B54944DB19BD73608CB4 /* NNAccountViewKit.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = NNAccountViewKit.podspec; path = ../NNAccountViewKit.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */

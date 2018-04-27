@@ -1,0 +1,16 @@
+PODS:
+  - NNAccountViewKit (0.1.0)
+
+DEPENDENCIES:
+  - NNAccountViewKit (from `../`)
+
+EXTERNAL SOURCES:
+  NNAccountViewKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  NNAccountViewKit: eae7fbdea9eed678cb8d480c4f5043ffbc5d8053
+
+PODFILE CHECKSUM: 4d29b441d7bdf2b28c600d12d79f941beb529cc7
+
+COCOAPODS: 1.5.0
