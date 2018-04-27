@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'NNAccountViewKit_Example' do
+  pod 'NNAccountViewKit', :path => '../'
+
+  target 'NNAccountViewKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
